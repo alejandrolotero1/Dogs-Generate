@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+
+.navIndex{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #24292f
+}
+
+.navIndex h2{
+    color: #fff;
+}
+
+section{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.imgContent{
+    width: 20%;
+}
+
+#btnGenerate{
+    background-color: #24292f;
+    color: #fff;
+    width: 7%;
+    height: 10%;
+}
